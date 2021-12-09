@@ -1,0 +1,9 @@
+samples:
+  test:
+    r1_path: /exodus/test_data/R1.fastq
+    r2_path: /exodus/test_data/R2.fastq
+  # Additional samples can be added with the same format as above
+references:
+  MG030346: /exodus/test_data/MG030346.1.fasta
+  MN604053: /exodus/test_data/MN604053.1.fasta
+  MN840486: /exodus/test_data/MN840486.1.fasta
