@@ -1,5 +1,5 @@
 # Exodus
-Exodus is a bioinformatics pipelines aimed to quantify relative abundance of highly similar sequences.
+Exodus is a bioinformatics pipeline aimed to quantify relative abundance of highly similar sequences.
 # Dependencies
 The software is distributed as a self contained docker image biomx/exodus:1.0 on Docker Hub.
 # Input data preparation
