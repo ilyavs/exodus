@@ -1,5 +1,3 @@
-# docker container run --rm --init -v ~/.aws:/root/.aws -v $(pwd):/workdir --env host_path_to_workdir=$(pwd) -v /data:/data -v /var/run/docker.sock:/var/run/docker.sock --workdir /workdir 747401950675.dkr.ecr.us-east-2.amazonaws.com/exodus:1.0 snakemake -s /exodus.smk --cores 20 --configfile /workdir/config.yaml -d /workdir --notemp
-
 import pandas as pd
 import re
 from snakemake.remote.S3 import RemoteProvider as S3RemoteProvider
