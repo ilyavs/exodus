@@ -24,3 +24,6 @@ The relative abundances are in `Summary/Combined_relative_abundances.csv` and sh
 
 # License
 The software is distributed under the GPLv3 license.
+
+# Citation
+Exodus is currently under review, we will update here once there is a relevant publication to cite
