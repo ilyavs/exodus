@@ -21,3 +21,6 @@ To run the pipeline, place the config file in a new working directory and change
 To run the test that is included in this repository, change to a working directory for saving output files and run:
 ```docker container run --rm --init -v $(pwd):/workdir --env host_path_to_workdir=$(pwd) -v /home/ilyav:/home/ilyav -v /var/run/docker.sock:/var/run/docker.sock --workdir /workdir biomx/exodus:1.0 snakemake -s /exodus/exodus.smk --cores all --configfile /exodus/config.yaml -d /workdir```
 The relative abundances are in `Summary/Combined_relative_abundances.csv` and should match the results in `test_data/Combined_relative_abundances.csv` in this repository.
+
+# License
+The software is distributed under the GPLv3 license.
