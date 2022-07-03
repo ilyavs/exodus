@@ -26,4 +26,5 @@ The relative abundances are in `Summary/Combined_relative_abundances.csv` and sh
 The software is distributed under the GPLv3 license.
 
 # Citation
-Exodus is currently under review, we will update here once there is a relevant publication to cite
+If using exodus, please cite:
+Vainberg-Slutskin, I. et al. Exodus: sequencing-based pipeline for quantification of pooled variants. Bioinformatics 38, 3288–3290 (2022).
