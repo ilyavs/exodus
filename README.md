@@ -27,4 +27,5 @@ The software is distributed under the GPLv3 license.
 
 # Citation
 If using exodus, please cite:
+
 Vainberg-Slutskin, I. et al. Exodus: sequencing-based pipeline for quantification of pooled variants. Bioinformatics 38, 3288–3290 (2022).
